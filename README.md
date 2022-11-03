@@ -1,0 +1,1 @@
+# SIG_Teori_Basic-Raster-Styling-and-Analysis-QGIS3-
